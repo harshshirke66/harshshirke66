@@ -1,3 +1,4 @@
+![logo](https://github.com/harshshirke66/harshshirke66/blob/main/HARSH%20SHIRKE%20GITHUB%20BANNER.png)
 <h1 align="center">Hi 👋, I'm HARSH SHIRKE</h1>
 <h3 align="center">🤖 Building AI-Powered Solutions | Driving Digital Innovation | Transforming Ideas into Reality 🚀</h3>
 

@@ -8,13 +8,13 @@
 <!-- Animated Title -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Harsh+Shirke;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Digital+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Harsh+Shirke;Full+Stack+Developer;React+Native+Developer;AI+%26+ML+Engineer;Building+Digital+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 
 <!-- Animated Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshshirke66&label=Profile+Views&color=0abde3&style=for-the-badge&abbreviated=true" alt="visitors"/>
+  <img src="https://hits.sh/github.com/harshshirke66.svg?style=for-the-badge&label=Profile%20Views&color=0abde3&labelColor=555555" alt="visitors"/>
   <img src="https://img.shields.io/github/followers/harshshirke66?label=Followers&style=for-the-badge&color=00D9FF&logo=github&logoColor=white" alt="followers"/>
   <img src="https://img.shields.io/badge/Status-Coding%20In%20Progress%20💻-00ff41?style=for-the-badge" alt="status"/>
   <img src="https://img.shields.io/badge/Focus-Innovation%20%26%20AI-blueviolet?style=for-the-badge" alt="focus"/>
@@ -40,19 +40,20 @@
 
 ```javascript
 const harshShirke = {
-  location: "India 🇮🇳",
-  role: "Full Stack Developer",
-  passion: "AI & ML Enthusiast",
+  location: "Mumbai, India 🇮🇳",
+  role: "Full Stack & React Native Developer",
+  passion: "AI & ML Engineer",
   currentProject: "SECURE HER 🛡️",
   
-  code: ["JavaScript", "TypeScript", "Python", "Java"],
+  code: ["JavaScript", "TypeScript", "Python", "Java", "SQL"],
   
   technologies: {
     frontend: ["React.js", "Next.js", "HTML/CSS"],
-    backend: ["Node.js", "REST APIs"],
-    databases: ["PostgreSQL", "MySQL"],
-    cloud: ["GCP", "Vercel"],
-    ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn"]
+    mobile: ["React Native", "Flutter", "Expo", "EAS Build"],
+    backend: ["Node.js", "Express.js", "REST APIs", "Appwrite"],
+    databases: ["PostgreSQL (Supabase)", "MySQL", "Redis"],
+    cloud: ["GCP", "Cloudflare R2", "Vercel"],
+    ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn", "Pandas", "NumPy"]
   },
   
   currentlyLearning: [
@@ -81,6 +82,7 @@ const harshShirke = {
   
   ### 💡 Currently Working On
   
+  🔹 React Native App Developer Intern @ Sugamaya Governance LLP  
   🔹 Building AI-Powered Web Applications  
   🔹 Developing Cross-Platform Mobile Apps  
   🔹 Exploring Cloud-Native Solutions  
@@ -107,19 +109,20 @@ const harshShirke = {
 
 <div align="center">
   
-<a href="https://secureherwebsite.vercel.app/">
-  <img src="https://img.shields.io/badge/🛡️_SECURE_HER-LIVE_PROJECT-00ff41?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Secure Her"/>
+<a href="https://github.com/harshshirke66/PROJECT-KISAN">
+  <img src="https://img.shields.io/badge/🌾_PROJECT_KISAN-FEATURED_PROJECT-00ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Project Kisan"/>
 </a>
 
 <br/><br/>
 
-**🌟 Women Safety Platform | Real-time Alerts | AI-Powered Assistance 🌟**
+**🌟 AI Farming Assistant | Crop Diagnosis | Market Insights 🌟**
 
 <br/>
 
-[![Deploy Status](https://img.shields.io/badge/Status-Live-success?style=flat-square&logo=vercel)](https://secureherwebsite.vercel.app/)
-[![Tech Stack](https://img.shields.io/badge/Stack-Full_Stack-blue?style=flat-square&logo=stackblitz)](https://secureherwebsite.vercel.app/)
-[![Innovation](https://img.shields.io/badge/Innovation-High-orange?style=flat-square&logo=hackthebox)](https://secureherwebsite.vercel.app/)
+[![React](https://img.shields.io/badge/React-Frontend-00D9FF?style=flat-square&logo=react)](https://github.com/harshshirke66/PROJECT-KISAN)
+[![Node](https://img.shields.io/badge/Node.js-Backend-00ff41?style=flat-square&logo=nodedotjs)](https://github.com/harshshirke66/PROJECT-KISAN)
+[![Supabase](https://img.shields.io/badge/Supabase-Database-3ECF8E?style=flat-square&logo=supabase)](https://github.com/harshshirke66/PROJECT-KISAN)
+[![AI](https://img.shields.io/badge/AI-Integrated-blueviolet?style=flat-square)](https://github.com/harshshirke66/PROJECT-KISAN)
 
 <br/>
 
@@ -140,6 +143,10 @@ const harshShirke = {
 
 <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript&theme=dark" />
 
+<br/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
 <br/><br/>
 
 ### 🤖 AI & Machine Learning
@@ -159,19 +166,32 @@ const harshShirke = {
 
 <br/><br/>
 
+### 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=react,flutter&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/EAS_Build-000020?style=for-the-badge&logo=expo&logoColor=white" />
+
+<br/><br/>
+
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/REST_APIs-00D9FF?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
 
 <br/><br/>
 
-### 🗄️ Databases
+### 🗄️ Databases & Caching
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis&theme=dark" />
 
 <br/>
 
@@ -181,17 +201,17 @@ const harshShirke = {
 
 ### ☁️ Cloud & Deployment
 
-<img src="https://skillicons.dev/icons?i=gcp,vercel,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=gcp,vercel,cloudflare,git&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 
 <br/><br/>
 
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,git&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
 
 </div>
 
@@ -214,7 +234,7 @@ const harshShirke = {
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshshirke66&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=10" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshshirke66&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00ff41&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+<img width="49%" src="https://ghchart.rshah.org/00D9FF/harshshirke66" alt="Contribution Graph"/>
 
 </div>
 
@@ -239,8 +259,9 @@ const harshShirke = {
 <div align="center">
 
 <img src="https://img.shields.io/badge/🥇_1st_Prize-BizPitch_Arena_National_Level-FFD700?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/🏆_Finalist-Techfest_IIT_Bombay-00D9FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🏆_Finalist-Techfest_IIT_Bombay_(Antarvani)-00D9FF?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/🥉_3rd_Place-Pitch_Perfect_4.0_E_Cell_UCOE-00ff41?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🥉_3rd_Place-INGENIOUS_2026_Mini_Project_(Antarvani)-FF9F1C?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
 
@@ -259,7 +280,7 @@ const harshShirke = {
 
 <div align="center">
   
-<a href="https://harshportfoliowebsite.vercel.app/">
+<a href="https://harshshirke.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio"/>
 </a>
 
@@ -296,7 +317,7 @@ const harshShirke = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshshirke66&bg_color=000000&color=00D9FF&line=00ff41&point=ffffff&area=true&hide_border=false&border_color=00D9FF&title_color=00D9FF&custom_title=My%20Contribution%20Timeline" width="100%" alt="Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/harshshirke66/harshshirke66/output/activity-graph.svg" width="100%" alt="Activity Graph"/>
 </div>
 
 <br/>
@@ -320,24 +341,6 @@ while (alive) {
     repeat();
 }
 ```
-
-</div>
-
-<br/>
-
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 🎯 Current Goals
-
-<div align="center">
-
-| Goal | Status | Progress |
-|:---:|:---:|:---:|
-| Master AI/ML Integration | 🚀 In Progress | ![](https://progress-bar.dev/75/?width=200) |
-| Build 10+ Full Stack Projects | 💪 Active | ![](https://progress-bar.dev/60/?width=200) |
-| Contribute to Open Source | ✅ Ongoing | ![](https://progress-bar.dev/50/?width=200) |
-| Master Cloud Architecture | 🎯 Learning | ![](https://progress-bar.dev/65/?width=200) |
 
 </div>
 
@@ -374,9 +377,10 @@ Real-time alerts & AI-powered assistance for women's safety. **🥇 1st Prize at
 
 ![React](https://img.shields.io/badge/React-Frontend-00D9FF?style=flat-square)
 ![Node](https://img.shields.io/badge/Node.js-Backend-00ff41?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-Database-3ECF8E?style=flat-square)
 ![AI](https://img.shields.io/badge/AI-Integrated-blueviolet?style=flat-square)
 
-AI-powered crop diagnosis & real-time market insights for farmers.
+AI-powered farming assistant for crop diagnosis, market insights & personalized recommendations.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/harshshirke66/PROJECT-KISAN)
 
@@ -402,11 +406,27 @@ Real-time air quality monitoring with personalized health recommendations.
 **Legal Document Simplifier**
 
 ![AI](https://img.shields.io/badge/AI-Web_App-00D9FF?style=flat-square)
-![Legal](https://img.shields.io/badge/Legal-Tech-00ff41?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-Powered-00ff41?style=flat-square)
+![Legal](https://img.shields.io/badge/Legal-Tech-blueviolet?style=flat-square)
 
-Simplifies legal documents, detects hidden clauses & recommends government schemes.
+NLP-powered platform that simplifies legal documents, detects hidden clauses & recommends government schemes.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/harshshirke66/Legal-AI)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" colspan="2">
+
+### 🐾 PawStay
+**Pet Boarding Platform**
+
+![Flutter](https://img.shields.io/badge/Flutter-Mobile-00D9FF?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-AI-blueviolet?style=flat-square)
+![Razorpay](https://img.shields.io/badge/Razorpay-Payments-00ff41?style=flat-square)
+
+Pet boarding platform with real-time booking, chat, payments & AI-powered host recommendations.
 
 </td>
 </tr>
